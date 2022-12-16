@@ -2,6 +2,7 @@ import React from 'react'
 import { Cursor,useTypewriter } from 'react-simple-typewriter'
 import BackgroundCircles from './BackgroundCircles'
 import Link from 'next/link';
+import fotoo from '../assets/img/fotoo.jpg'
 
 
 type Props = {}
@@ -14,11 +15,11 @@ export default function Hero({}: Props) {
     delaySpeed:2000
     })
   return (
-    <div className='h-screen flex flex-col space-y-8 items-center justify-center text-center overflow-hidden'>
+    <div className='h-screen flex flex-col space-y-8 items-center justify-center text-center overflow-hidden '>
         <BackgroundCircles />
         <img
-        className='relative rounded-full h-32 w-32 mx-auto object-cover'
-         src='https://pbs.twimg.com/profile_images/1574455987733504000/35hDjDnj_400x400.jpg' alt='' />
+        className=' relative rounded-full h-32 w-32 mx-auto object-cover'
+         src={fotoo.src}  />
          <div className='z-20'>
             <h2 className='text-sm uppercase text-gray-500 pb-2 tracking-[15px]'>Frontend Developer</h2>
             <h2 className='text-sm uppercase text-gray-500 pb-2 tracking-[15px]'>UX/UI Designer</h2>
