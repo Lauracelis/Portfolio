@@ -1,10 +1,10 @@
 
 <h2>Portfolio Template</h2>
-
+<center>
 <pre>
-⭐ My personal portfolio which features some of my github projects as well as my resume and technical skills..
+⭐ My personal portfolio which features some of my github projects as well as my resume and technical skills.
 </pre>
-
+</center>
 <br/>
 
 <h3>:eye_speech_bubble: Live demo</h3>
