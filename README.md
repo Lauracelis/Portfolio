@@ -40,7 +40,7 @@ This project was built using these technologies.
 
 **📱 Fully Responsive**
 
-**🎨 Animation with Framer mation and styled with Tailwind **
+**🎨 Animation with Framer mation and styled with Tailwind**
 
 
 ## Contribuyendo 🖇️ 
