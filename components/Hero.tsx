@@ -2,14 +2,13 @@ import React from 'react'
 import { Cursor,useTypewriter } from 'react-simple-typewriter'
 import BackgroundCircles from './BackgroundCircles'
 import Link from 'next/link';
-import fotoo from '../assets/img/fotoo.jpg'
-
+import fotoPerfil from '../assets/img/fotoPerfil.jpg'
 
 type Props = {}
 
 export default function Hero({}: Props) {
     const[text, count] = useTypewriter({
-        words:["Hola", "I´m Laura", "me gusta Lana del rey"
+        words:["Hello!", "I´m Laura Celis", "I enjoy coding and designing"
     ],
     loop:true,
     delaySpeed:2000
@@ -19,10 +18,12 @@ export default function Hero({}: Props) {
         <BackgroundCircles />
         <img
         className=' relative rounded-full h-32 w-32 mx-auto object-cover'
-         src={fotoo.src}  />
+         src={fotoPerfil.src}  />
          <div className='z-20'>
             <h2 className='text-sm uppercase text-gray-500 pb-2 tracking-[15px]'>Frontend Developer</h2>
-            <h2 className='text-sm uppercase text-gray-500 pb-2 tracking-[15px]'>UX/UI Designer</h2>
+            <h2 className='text-sm uppercase text-gray-500 pb-2 tracking-[15px]'>UX/UI Designer  </h2> <span className="wave-emoji" role="img" aria-label="waving hand">
+                👋
+              </span>
         <h1 className='text-5xl lg:text-6xl font-semibold scroll-px-10'>
        <span className='mr-3 '>{text}</span> 
        <Cursor cursorColor='pink' />

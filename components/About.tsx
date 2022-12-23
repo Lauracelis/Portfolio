@@ -29,13 +29,10 @@ export default function About({}: Props) {
         <div className='space-y-10 px-0 md:px-10'>
             <h4 className='text-4xl font-semibold'>
                 Here is a {""}
-                <span className='underline decoration-[#f7ab0a]/50'>Little </span>{""}
+                <span className='underline decoration-[pink]/80'>Little </span>{""}
                 background
                 </h4>
-                <p className='text-base'>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ratione iure illo dolores non amet nemo, architecto suscipit natus voluptates labore, similique rerum minus sit, asperiores vero cupiditate ducimus. Corporis, saepe.
-                Nobis, nulla alias eveniet voluptas placeat rem quis, reprehenderit sunt error quam nisi cupiditate optio! Sapiente, repellendus. Architecto blanditiis, deserunt minima corrupti voluptates quos ut perspiciatis sunt suscipit obcaecati nulla!
-                Accusantium, facilis soluta? Quasi, ab tempore distinctio repellendus libero adipisci porro illum! Nihil inventore eaque odit officia quo esse! Qui officia nihil consequuntur voluptas, beatae odit veniam iure eaque reprehenderit.
-                </p>
+                <p className='text-base'>Passionate designer and developer, I like to solve problems, and oriented to attention to detail. As a UX Researcher, I am motivated by the creation of good digital experiences that help elevate our lives, so from a problem, I shape ideas through prototyping and apply different research methodologies to accurately understand the users need. </p>
         </div>
         </motion.div>
   )
