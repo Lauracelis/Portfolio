@@ -39,8 +39,9 @@ This project was built using these technologies.
 ## :star: Features 
 
 **📱 Fully Responsive**
+
 **🎨 Animation with Framer mation and styled with Tailwind **
-**  **
+
 
 ## Contribuyendo 🖇️ 
 
