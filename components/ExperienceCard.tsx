@@ -1,7 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
 import kuepa from '../assets/img/kuepa.jpg'
-import List from './List';
 
 
 type Props = { title: String , place: string, lists:Array<string>}

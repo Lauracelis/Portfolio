@@ -1,8 +1,8 @@
 import React from 'react'
 import { motion } from 'framer-motion';
-import Captura from '../assets/img/Captura.png'
-type Props = {}
+import Captura from '../assets/img/Captura.jpg'
 
+type Props = {} 
 export default function Projects({ }: Props) {
     const projects = [1, 2, 3, 4];
 
