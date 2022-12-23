@@ -7,7 +7,7 @@
 </center>
 <br/>
 
-##:eye_speech_bubble: Live demo
+## :eye_speech_bubble: Live demo
 
 Check live demonstration <a href="https://portfolio-app-pearl-xi.vercel.app/"><strong>here</strong></a>
 
