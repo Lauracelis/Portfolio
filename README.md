@@ -7,13 +7,13 @@
 </center>
 <br/>
 
-<h3>:eye_speech_bubble: Live demo</h3>
+##:eye_speech_bubble: Live demo
 
 Check live demonstration <a href="https://portfolio-app-pearl-xi.vercel.app/"><strong>here</strong></a>
 
 
 
-<h3>:books: Getting started 📋 </h3>
+## :books: Getting started 📋 
 
 1. Clone or fork project.
 2. Install required dependencies with `npm install`.
@@ -36,13 +36,13 @@ This project was built using these technologies.
 - Vercel
 
 
-<h3>:star: Features </h3>
+## :star: Features 
 
 **📱 Fully Responsive**
 **🎨 Animation with Framer mation and styled with Tailwind **
 **  **
 
-<h3>Contribuyendo 🖇️ </h3>
+## Contribuyendo 🖇️ 
 
 Please read CONTRIBUTING.md for details of our code of conduct, and the process for submitting pull requests to us.
 
